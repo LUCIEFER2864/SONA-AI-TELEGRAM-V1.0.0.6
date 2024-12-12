@@ -1,10 +1,10 @@
 {
     "tg": [
-        "get_the_bot_token_from_tg_botfather"
+        "7560038459:AAGdnU7z5ME_O5j09wLekRkx6kWviUJcp0U"
     ],
-    "prefix": "-",
+    "prefix": "",
     "webhookURL": "your_webhookURL", 
-    "supportGroupText": "Welcome to the bot! Type `help to see all available commands.\nJoin the support box to know how to use or how to create these types of bots: https://t.me/+YNKDd9_jIeYxNDQ1",
+    "supportGroupText": "ترا ماعندي قروب بس البوت بتاعي 🙂",
     "prefixText": "🌐 System prefix:",
     "botName": "annie",
     "adminUids": [
